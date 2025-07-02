@@ -1,5 +1,5 @@
-# Datagram Alpha Testnet Setup Guide
-
+# Datagram Alpha Testnet 
+A step-by-step guide to run Datagram node via CLI
 ---
 
 ## Table of Contents
