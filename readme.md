@@ -2,14 +2,24 @@
 A step-by-step guide to run Datagram node via CLI
 ---
 
-## Table of Contents
-
+## Contents
+- [Requirements](#requirements) 
 - [Step 1: Sign Up & Get License Key](#step-1-sign-up--get-license-key)  
 - [Step 2: Login to your VPS or WSL](#step-2-login-to-your-vps-or-wsl)  
 - [Step 3: Import Datagram CLI](#step-3-import-datagram-cli)  
 - [Step 4: Run Datagram Node](#step-4-run-datagram-node)  
 
 ---
+## Requirements
+
+| Component | Minimum | Recommended |
+|----------|---------|-------------|
+| **CPU**  | 2 cores | 4+ cores     |
+| **RAM**  | 4 GB    | 8 GB         |
+| **Storage** | 20 GB SSD | 50 GB+ SSD |
+| **Network** | 10 Mbps | Stable broadband |
+| **OS**   | Ubuntu 20.04/22.04 | Any Linux (incl. WSL) |
+
 
 ## Step 1: Sign Up & Get License Key
 
